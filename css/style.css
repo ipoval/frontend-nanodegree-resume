@@ -115,7 +115,12 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: #000;
+}
+
+#name + span {
+  color: #fff;
+  font-weight: bold;
 }
 
 .flex-box {
